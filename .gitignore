@@ -1,0 +1,6 @@
+*
+!*/
+!*.cpp
+!*.cc
+!/ppt/**
+!.gitignore
